@@ -1,0 +1,2 @@
+struct LinkedListSingly{};
+struct LinkedListDoubly{};

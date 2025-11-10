@@ -1,0 +1,2 @@
+void pointerInt(){}
+void pointerVoid(){}
